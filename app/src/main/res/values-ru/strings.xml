@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="result">Результат:</string>
+    <string name="sum">Сумма</string>
+    <string name="sum_strings">Объединение строк</string>
+    <string name="empty_field_err">Одно из полей пустое</string>
+    <string name="wrong_number_err">Неверное число</string>
+    <string name="switch_fragment">Сменить фрагмент</string>
+    <string name="open_history">Открыть историю</string>
+</resources>
