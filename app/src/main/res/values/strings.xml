@@ -8,4 +8,5 @@
     <string name="switch_fragment" translatable="true">Switch fragment</string>
     <string name="open_history">Open history</string>
     <string name="snack" translatable="false">Snack it</string>
+    <string name="delete_except" translatable="false">Delete except</string>
 </resources>
